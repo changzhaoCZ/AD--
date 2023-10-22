@@ -1,0 +1,1 @@
+||kde.qq.com^$important,app=com.tencent.mtt
