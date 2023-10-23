@@ -2,4 +2,3 @@
 @@||apissl.ksapisrv.com^$app=com.kuaishou.nebula，important
 @@||v3-fq-tts.fqnovelvod.com$important（英语：fq-tts.fqnovelvod$important）
 @@||v26-fq-tts.fqnovelvod.com$important（英语：fq-tts.fqnovelvod$important）
-raw.gitmirror.com
