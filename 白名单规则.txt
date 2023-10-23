@@ -1,4 +1,5 @@
-@@||mssdk3-normal-hl.zijieapi.com^$app=com.dragon.read,important
-@@||apissl.ksapisrv.com^$app=com.kuaishou.nebula,important
-@@||v3-fq-tts.fqnovelvod.com$important
-@@||v26-fq-tts.fqnovelvod.com$important
+@@||mssdk3-normal-hl.zijieapi.com^$app=com.dragon.read，important。
+@@||apissl.ksapisrv.com^$app=com.kuaishou.nebula，important
+@@||v3-fq-tts.fqnovelvod.com$important（英语：fq-tts.fqnovelvod$important）
+@@||v26-fq-tts.fqnovelvod.com$important（英语：fq-tts.fqnovelvod$important）
+raw.gitmirror.com
