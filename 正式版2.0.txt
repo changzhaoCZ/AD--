@@ -314,3 +314,8 @@
 ||h-adashx4yt.ut.taobao.com^$important
 ||umdc.aliapp.org*
 /ads.*/
+/sdk.*/
+||sdk.beizi.biz^$important
+||cfg.imtt.qq.com^$important
+||sdk.beizi.biz^$important
+||sdktmp.hubcloud.com.cn^$important
