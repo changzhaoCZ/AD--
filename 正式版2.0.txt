@@ -192,9 +192,6 @@
 ||puds.ucweb.com^$important
 ||adash.man.aliyuncs.com^$important
 ||adukwai.com^$important
-||taobao.com^$important
-||pinduoduo.com^$important
-||jd.com^$important
 ||ads.video.qq.com^$important
 ||multi-az-ad.kuaishou.cn^
 ||p3.adkwai.com^
@@ -319,3 +316,7 @@
 ||cfg.imtt.qq.com^$important
 ||sdk.beizi.biz^$important
 ||sdktmp.hubcloud.com.cn^$important
+@@||mssdk3-normal-hl.zijieapi.com^$app=com.dragon.read,important
+@@||apissl.ksapisrv.com^$app=com.kuaishou.nebula,important
+@@||v3-fq-tts.fqnovelvod.com$important
+@@||v26-fq-tts.fqnovelvod.com$important
