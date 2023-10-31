@@ -1,0 +1,9 @@
+@@||mssdk3-normal-hl.zijieapi.com^$app=com.dragon.read,important
+@@||apissl.ksapisrv.com^$app=com.kuaishou.nebula,important
+@@||v3-fq-tts.fqnovelvod.com$important
+@@||v26-fq-tts.fqnovelvod.com$important
+@@||rdelivery.qq.com^$important,app=com.tencent.mtt
+@@||rmc.bytedance.com^$important
+@@||verify.zijieapi.com^$important,app=com.ss.android.ugc.aweme
+@@||mp.weixin.qq.com^$important,app=com.tencent.mm
+@@||im-emoticon.pinduoduo.com^$important
