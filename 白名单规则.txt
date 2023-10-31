@@ -7,4 +7,4 @@
 @@||verify.zijieapi.com^$important,app=com.ss.android.ugc.aweme
 @@||mp.weixin.qq.com^$important,app=com.tencent.mm
 @@||im-emoticon.pinduoduo.com^$important
-@@taobao
+@@PDDpddd
